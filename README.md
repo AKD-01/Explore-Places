@@ -24,7 +24,7 @@ Can also use this as a guide while visiting those places anywhere in the world, 
 ![image](https://user-images.githubusercontent.com/83454075/179265062-6351033d-211b-466e-a9fd-ef3f2e8329ae.png)
 
 
-One can share their own favorite places with the other users using "ADD PLACE". 
+One can share their own favorite places with the other users using "ADD PLACE" feature. 
 
 ![image](https://user-images.githubusercontent.com/83454075/179265473-4941abc0-6f85-4c6a-8b9a-fe2cdbdc9dbe.png)
 
