@@ -1,5 +1,9 @@
 # Explore-Places!
-A web-based application made with React JS, where users can create their accounts by simply signing in with their name, email id, and password:
+## Tech Stack Used:
+🏾 ReactJS
+🏾 Firebase
+## Usage Guide
+A web-based application made with 💙, where users can create their accounts by simply signing in with their name, email id, and password.
 
 ![image](https://user-images.githubusercontent.com/83454075/179263854-db8c6089-6060-4fa1-82a3-65b9a497c995.png)
 
